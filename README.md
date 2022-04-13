@@ -15,3 +15,6 @@
 2. Put/replace the files from the code folder into @ExileServer\addons\exile_server\code. and repack your exile_server.pbo
 
 3. Done ! Nothing more needed.
+
+
+# License Info: If you server is named KFB (Kentucky Fried Bambi) you have no permission to use this. Any violation will result in a DMCA.
