@@ -1,12 +1,9 @@
-###########################################################################
-# 
-# Exile Weapon Attachment Save Fix v0.11
-# by El'Rabito
-#
-############################################################################
 
-WARNING: This is outdated, use this instead -> https://github.com/ELRabito/PlayerBackpackSavesWeaponsWithAttachments
-	
+**WARNING: This is outdated, use this instead -> https://github.com/ELRabito/PlayerBackpackSavesWeaponsWithAttachments**
+
+
+
+
 #> Installation
 
 1. Add this two functions below above line 43 of @ExileServer\addons\exile_server\bootstrap\fn_preInit.sqf
