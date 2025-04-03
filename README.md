@@ -4,6 +4,8 @@
 # by El'Rabito
 #
 ############################################################################
+
+WARNING: This is outdated, use this instead -> https://github.com/ELRabito/PlayerBackpackSavesWeaponsWithAttachments/blob/main/README.md
 	
 #> Installation
 
